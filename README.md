@@ -1,2 +1,2 @@
 # CMS-system
-CMS system in C++ on console using concept of object oriented programing
+CMS system or student management system C++ on console using concept of object oriented programing
